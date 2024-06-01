@@ -1,0 +1,47 @@
+export const customers = [
+  {
+    id: 9,
+    customer: 11908,
+    customer_profile: {
+      id: 11908,
+      name: "Ram",
+      color: [182, 73, 99],
+      email: "jesus_christ@church.com",
+      pincode: "Mumbai",
+      location_name: "Mumbai, Maharashtra, India",
+      type: "C",
+      profile_pic: null,
+      gst: "",
+    },
+  },
+  {
+    id: 10,
+    customer: 12001,
+    customer_profile: {
+      id: 12001,
+      name: "John",
+      color: [45, 156, 219],
+      email: "john_doe@example.com",
+      pincode: "New York",
+      location_name: "New York, NY, USA",
+      type: "A",
+      profile_pic: null,
+      gst: "",
+    },
+  },
+  {
+    id: 11,
+    customer: 12002,
+    customer_profile: {
+      id: 12002,
+      name: "Jane",
+      color: [255, 87, 34],
+      email: "jane_doe@example.com",
+      pincode: "London",
+      location_name: "London, England, UK",
+      type: "B",
+      profile_pic: null,
+      gst: "",
+    },
+  },
+];
