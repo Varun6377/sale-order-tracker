@@ -204,7 +204,7 @@ const SaleOrderModal = ({ isOpen, onClose, onCreate }) => {
             ))}
 
             <Button type="submit" colorScheme="blue" width="full">
-              Order
+              Create Sale Order
             </Button>
           </VStack>
         </ModalBody>
